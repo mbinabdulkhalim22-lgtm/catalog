@@ -1,4 +1,4 @@
-# Cloud Samples Catalog
+https://github.com/terraform-google-modules/terraform-docs-samples/actions/workflows/github-code-scanning/codeql# Cloud Samples Catalog
 
 **View the site: [Cloud Samples Catalog](https://googlecloudsamples.github.io/catalog/)**
 
